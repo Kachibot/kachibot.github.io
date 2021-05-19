@@ -57,7 +57,7 @@ html {
 
 #title {
   position: absolute;
-  top: 30%;
+  top: 40%;
   left: 0;
   right: 0;
   color: #FFF;
@@ -88,7 +88,6 @@ a.button1{
 display:inline-block;
 padding:0.35em 1.2em;
 border:0.1em solid #FFFFFF;
-top: 30%;
 left: 0;
 right: 0;
 margin:0 0.3em 0.3em 0;
@@ -112,9 +111,9 @@ margin:0.4em auto;
   }
 }
 .center {
-  margin: 0;
+  margin: 2;
   position: absolute;
-  top: 60%;
+  top: 50%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
